@@ -2,11 +2,12 @@
 
 **Human:**
 What is wrong in the below code?
+```
 from tensorflow import keras
 base_model = keras.applications.resnet50.ResNet50(include_top = False)
 ix=keras.layers.Input(shape=(224,224,1))
 print(base_model(ix))
-
+```
 ***
 
 **Assistant:**
