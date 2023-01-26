@@ -65,19 +65,21 @@ Keep in mind that using the ResNet50 model with grayscale input data will likely
 ***
 
 **Human:**
+```
 from tensorflow import keras
 
-> Load the ResNet50 model
+# Load the ResNet50 model
 base_model = keras.applications.resnet50.ResNet50(include_top = False)
 
-> Define an input layer with a single channel (grayscale image)
+# Define an input layer with a single channel (grayscale image)
 ix = keras.layers.Input(shape=(224,224,1))
 
-> Repeat the grayscale channel three times to create a 3-channel image
+# Repeat the grayscale channel three times to create a 3-channel image
 x = keras.layers.RepeatVector(3)(ix)
+```
 
 RepeatVector does not make the proper input to base_model.
-Please shaow me the correct code.
+Please show me the correct code.
 
 ***
 
