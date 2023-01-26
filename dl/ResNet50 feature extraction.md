@@ -115,11 +115,13 @@ Keep in mind that using the ResNet50 model with grayscale input data will likely
 ***
 
 **Human:**
-> Define an input layer with a single channel (grayscale image)
+```
+# Define an input layer with a single channel (grayscale image)
 ix = keras.layers.Input(shape=(224,224,1))
 
-> Reshape the grayscale image to an RGB image by repeating the grayscale channel three times
+# Reshape the grayscale image to an RGB image by repeating the grayscale channel three times
 x = keras.layers.Reshape((224, 224, 3))(ix)
+```
 
 Your code makes the following error again.
 ValueError: Exception encountered when calling layer "reshape_2" (type Reshape).
