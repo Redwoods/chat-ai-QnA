@@ -25,15 +25,6 @@ In summary, fractal analysis is a powerful method for quantifying the patterns o
 
 References:
 <ol><li>"Fractal Analysis of Neural Signals" by R. K. Ramkumar et al. (2015), (<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4668153/" target="_new">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4668153/</a>)</li><li>"Multifractal Analysis of Spike Trains" by R. K. Ramkumar et al. (2015), (<a href="https://www.ncbi.nl" target="_new">https://www.ncbi.nl</a></li></ol>
-
-***
-
-**Human:**
-Please complete References.
-
-***
-
-**Assistant:**
 <ol start="3"><li>"Deep Learning for Neural Spike Sorting" by J. J. Shih et al. (2018), (<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5846148/" target="_new">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5846148/</a>)</li><li>"Recurrent Neural Networks for Burst Detection in Neural Signals" by J. J. Shih et al. (2019), (<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6438354/" target="_new">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6438354/</a>)</li><li>"A deep learning approach for spike sorting of extracellular recordings" by J. J. Sun et al. (2019), (<a href="https://www.nature.com/articles/s41598-019-42695-5" target="_new">https://www.nature.com/articles/s41598-019-42695-5</a>)</li><li>"Deep learning for spike detection and classification in multichannel extracellular recordings" by Y. Wang et al. (2019), (<a href="https://www.nature.com/articles/s41598-019-49134-7" target="_new">https://www.nature.com/articles/s41598-019-49134-7</a>)</li><li>"Deep learning for spike sorting of extracellular recordings" by J. J. Sun et al. (2019), (<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6869791/" target="_new">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6869791/</a>)</li><li>"Deep Learning for Neural Spike Sorting with Application to Brain-Machine Interface" by J. J. Shih et al. (2019), (<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6721062/" target="_new">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6721062/</a>)</li><li>"Deep learning methods for spike detection and sorting in extracellular recordings" by Y. Wang et al. (2020), (<a href="https://www.sciencedirect.com/science/article/pii/S0165027019307568" target="_new">https://www.sciencedirect.com/science/article/pii/S0165027019307568</a>)</li><li>"Deep learning for spike sorting of extracellular recordings: A review" by J. J. Sun et al. (2020), (<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7319584/" target="_new">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7319584/</a>)</li></ol>
 
 ***
