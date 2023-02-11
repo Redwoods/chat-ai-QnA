@@ -100,7 +100,7 @@ It's important to note that spikes and bursts are just one type of neural code u
 ***
 
 **Human:**
-How can we understand the distribution of inter-spike intervals and to quantify ISIs?
+How can we understand the distribution of inter-spike intervals and quantify ISIs?
 
 ***
 
