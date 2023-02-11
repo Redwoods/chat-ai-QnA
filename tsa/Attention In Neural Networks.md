@@ -19,7 +19,7 @@ Attention has proven to be very effective in many NLP tasks, especially in tasks
 ***
 
 **Human:**
-Can you explain what is attention to the fifth grade in ore than 1000 words?
+Can you explain what is attention to the fifth grade in more than 1000 words?
 
 ***
 
